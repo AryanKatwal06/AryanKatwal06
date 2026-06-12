@@ -2,26 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=280&section=header&text=Aryan%20Katwal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Application%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Fintech+%26+Mobile+Systems;React+Native+%7C+Node.js+%7C+NestJS+%7C+PostgreSQL;Architecting+Secure+Wallets+%26+Offline-First+Apps;Open+to+SDE+Internship+Opportunities" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Scalable+Fintech+%26+Mobile+Systems;React+Native+%7C+Node.js+%7C+NestJS+%7C+PostgreSQL;Architecting+Secure+Wallets+%26+Offline-First+Apps;Open+to+SDE+Internship+Opportunities" />
 
 <br/>
 
-[![CGPA](https://img.shields.io/badge/CGPA-8.94%2F10-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![University](https://img.shields.io/badge/VIT%20Bhopal-CSE%20'28-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Location-Noida%2C%20India-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![CGPA](https://img.shields.io/badge/CGPA-8.94%2F10-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#) &nbsp; [![University](https://img.shields.io/badge/VIT%20Bhopal-CSE%20'28-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)](#) &nbsp; [![Location](https://img.shields.io/badge/Location-Noida%2C%20India-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-katwal-b1b9b6307)
-[![Gmail](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katwal.aryan11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanKatwal06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-katwal-b1b9b6307) &nbsp; [![Gmail](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katwal.aryan11@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanKatwal06)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AryanKatwal06&label=Profile%20Views&color=8b5cf6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/AryanKatwal06?label=Followers&style=for-the-badge&color=7c3aed)
-![Stars](https://img.shields.io/github/stars/AryanKatwal06?label=Stars&style=for-the-badge&color=6d28d9)
+![Profile Views](https://komarev.com/ghpvc/?username=AryanKatwal06&label=Profile%20Views&color=8b5cf6&style=for-the-badge) &nbsp; ![Followers](https://img.shields.io/github/followers/AryanKatwal06?label=Followers&style=for-the-badge&color=7c3aed&v=2) &nbsp; ![Stars](https://img.shields.io/github/stars/AryanKatwal06?label=Stars&style=for-the-badge&color=6d28d9&v=2)
 
 </div>
 
@@ -29,32 +24,34 @@
 
 ---
 
-## 💜 About Me
+## About Me
 
 ```yaml
 profile:
   name: "Aryan Katwal"
   role: "Full Stack & Mobile Applications Developer"
-  focus: ["React Native", "Fintech Systems", "Cloud-Native Backends", "AI-Assisted Engineering"]
+  focus: ["React Native", "Fintech Systems", "Cloud Backends", "AI-Assisted Workflows"]
   current_education: "B.Tech CSE, VIT Bhopal (3rd Year) - CGPA 8.94/10"
-  philosophy: "Engineering depth over surface-level shipping."
+  approach: "Understand the system deeply before trying to scale it."
 ```
 
-I'm a Computer Science undergraduate at **VIT Bhopal**, focused on building **production-grade fintech and mobile systems** with a strong emphasis on architecture, security, and offline-first reliability. My work spans **React Native CLI applications**, **NestJS/Node.js backends**, **PostgreSQL + Redis infrastructure**, and **Firebase-powered authentication systems**.
+I'm a third-year Computer Science undergrad at VIT Bhopal, and most of my time is spent figuring out how to build mobile and backend systems that don't break under pressure. Lately, I've been heavily focused on React Native (CLI), NestJS, and PostgreSQL, trying to understand how to design solid architectures rather than just getting features to work on my local machine.
 
-I approach every project with a **product engineering mindset** — phased delivery, gated definitions-of-done, security-first design, and clean modular architecture over quick hacks. I'm also deeply interested in **AI/ML-assisted development workflows**, agentic coding pipelines, and applying offline biometric intelligence to real-world authentication challenges.
+When I build something, I try to think about the edges—how an app behaves offline, how authentication holds up when the network is spotty, or how to structure a backend so it doesn't become a nightmare to refactor later. I'm still learning a lot, especially when it comes to caching with Redis and making mobile experiences feel truly native. I'm also spending time exploring how AI and agentic coding tools can speed up the boilerplate so I can focus on harder architectural problems.
+
+Right now, I'm looking for a software engineering internship where I can learn from experienced teams, write code that actually gets used, and figure out all the things I don't know yet.
 
 ```yaml
 currently_open_to:
   - "Software Development Engineering Internships (3 months)"
   - "Full Stack / Mobile Engineering Collaborations"
-  - "Open Source Contributions in React Native & Fintech tooling"
-  - "AI/ML Applied Engineering Projects"
+  - "Open Source Contributions"
+  - "Applied AI/ML Engineering Projects"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,57 +63,50 @@ currently_open_to:
 
 <br/>
 
-![React Native](https://img.shields.io/badge/React%20Native-7C3AED?style=flat-square&logo=react&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-6D28D9?style=flat-square&logo=framer&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-8B5CF6?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-5B21B6?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-7C3AED?style=flat-square&logo=react&logoColor=white) &nbsp; ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-6D28D9?style=flat-square&logo=framer&logoColor=white) &nbsp; ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-8B5CF6?style=flat-square&logo=redux&logoColor=white) &nbsp; ![Zustand](https://img.shields.io/badge/Zustand-5B21B6?style=flat-square&logo=react&logoColor=white)
 
 ### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,sqlite,prisma&theme=dark" />
 
 <br/>
 
-![Firebase](https://img.shields.io/badge/Firebase-7C3AED?style=flat-square&logo=firebase&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20Auth-6D28D9?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-7C3AED?style=flat-square&logo=firebase&logoColor=white) &nbsp; ![JWT](https://img.shields.io/badge/JWT%20Auth-6D28D9?style=flat-square&logo=jsonwebtokens&logoColor=white) &nbsp; ![REST APIs](https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Cloud, DevOps & Tooling
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,postman&theme=dark" />
 
 <br/>
 
-![Render](https://img.shields.io/badge/Render-5B21B6?style=flat-square&logo=render&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay%20Sandbox-4C1D95?style=flat-square&logo=razorpay&logoColor=white)
-![EAS Build](https://img.shields.io/badge/EAS%20Build-7C3AED?style=flat-square&logo=expo&logoColor=white)
+![Render](https://img.shields.io/badge/Render-5B21B6?style=flat-square&logo=render&logoColor=white) &nbsp; ![Razorpay](https://img.shields.io/badge/Razorpay%20Sandbox-4C1D95?style=flat-square&logo=razorpay&logoColor=white) &nbsp; ![EAS Build](https://img.shields.io/badge/EAS%20Build-7C3AED?style=flat-square&logo=expo&logoColor=white)
 
 </div>
 
 ---
 
-## 🤖 AI / ML & Applied Intelligence Expertise
+## AI / ML & Applied Intelligence Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Agentic Coding Workflows** | ⭐⭐⭐⭐⭐ | Structured AI agent prompt engineering (Context/Goal, Read-First rules, gated phase sign-off) for production codebases |
-| **Offline Biometric Authentication** | ⭐⭐⭐⭐ | MobileFaceNet/TFLite-based facial recognition with MediaPipe liveness detection for low-connectivity environments |
-| **Multi-Signal Trust Architecture** | ⭐⭐⭐⭐ | Continuous trust scoring combining face, device, behavioral, and location signals with decay modeling |
-| **AI-Assisted System Design** | ⭐⭐⭐⭐ | Designing modular, phase-gated architectures executed via AI coding agents (Cursor-style prompt pipelines) |
-| **Applied ML Tooling** | ⭐⭐⭐ | TensorFlow Lite, on-device inference, encrypted local data pipelines (AES-256 SQLite) |
-| **Workflow Automation (Agentic AI)** | ⭐⭐⭐ | ServiceNow Agentic AI & Workflow Automation certification |
+| **Agentic Coding Workflows** | Advanced | Structuring AI agent prompt engineering (Context/Goal rules, phase sign-offs) to assist with codebases |
+| **Offline Biometric Auth** | Proficient | Experimenting with MobileFaceNet/TFLite-based facial recognition for low-connectivity environments |
+| **Trust Architecture** | Proficient | Modeling continuous trust scoring combining device, behavioral, and location signals |
+| **AI-Assisted System Design** | Proficient | Designing modular architectures executed alongside AI coding agents |
+| **Applied ML Tooling** | Familiar | Working with TensorFlow Lite, on-device inference, and local encrypted data stores (SQLite) |
+| **Workflow Automation** | Familiar | ServiceNow Agentic AI & Workflow Automation certified |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
-<summary><b>💳 PaySys — Full-Stack Fintech Payment Platform (Ongoing)</b></summary>
+<summary><b>PaySys — Full-Stack Fintech Payment Platform (Ongoing)</b></summary>
 <br/>
 
-A secure, modular fintech wallet platform supporting digital wallets, merchant payments, QR transactions, and offline sync — architected from the ground up with phased, gated delivery.
+A fintech wallet platform I'm currently building to handle digital wallets, merchant payments, and QR transactions. I started this project to force myself to learn how real-world financial systems handle state and security.
 
 | Aspect | Details |
 |---|---|
@@ -124,18 +114,17 @@ A secure, modular fintech wallet platform supporting digital wallets, merchant p
 | **Scale** | Monorepo workspace — mobile app, backend services, shared contracts, infra scaffolding |
 | **Performance** | Redis-backed caching layer, real-time sync workflows, optimized mobile design system |
 | **Security** | Firebase Auth, JWT-based session management, sandboxed payment integration (Razorpay), strict env/secret hygiene |
-| **Impact** | Reusable design system + navigation architecture accelerating cross-feature delivery |
 | **Repository** | [AryanKatwal06/PaySys](https://github.com/AryanKatwal06/PaySys) |
 
-Architected a scalable full-stack fintech platform with modular service boundaries and cloud-native infrastructure (PostgreSQL, Redis, Firebase Auth, FCM, Razorpay Sandbox, Render). Built a reusable React Native component library and design token system to accelerate UI development, while defining secure authentication, wallet management, and transaction lifecycle workflows under a rigorous phase-gated engineering process.
+I'm structuring the backend with NestJS and PostgreSQL, and using Redis to cache things that shouldn't hit the database every time. On the frontend, I'm building out a React Native mobile app with a custom design system so I don't have to rewrite UI components. Integrating the Razorpay Sandbox and Firebase Auth has been a great learning curve in managing secure sessions and transaction lifecycles. It's still a work in progress, but it's teaching me a lot about keeping service boundaries clean and handling edge cases like offline sync.
 
 </details>
 
 <details>
-<summary><b>🔧 TechPhono — Device Repair Booking & Management App</b></summary>
+<summary><b>TechPhono — Device Repair Booking & Management App</b></summary>
 <br/>
 
-A React Native CLI application managing device repair bookings, real-time status tracking, accessory catalogs, and WhatsApp-based shop communication, with a full Firebase-backed admin workspace.
+A React Native app I built to manage device repair bookings, track live statuses, and connect customers with repair shops via WhatsApp. I also put together a Firebase-backed admin workspace for the shop owners to manage the queue.
 
 | Aspect | Details |
 |---|---|
@@ -143,18 +132,17 @@ A React Native CLI application managing device repair bookings, real-time status
 | **Scale** | Multi-role app — customer flows + dedicated admin stack with live repair queue management |
 | **Performance** | Real-time Firestore listeners (`onSnapshot`), AsyncStorage caching, theme persistence across light/dark/system modes |
 | **Security** | Email-allowlist admin gating, Firestore security rules denying unauthorized writes, rate-limited login with lockout |
-| **Impact** | End-to-end repair lifecycle — booking, Job ID tracking, history, feedback, and inventory management |
 | **Repository** | [AryanKatwal06/TechPhono-Repair-App](https://github.com/AryanKatwal06/TechPhono-Repair-App) |
 
-Implemented Firebase Authentication with role-based admin access, secure session persistence, and password reset workflows. Built a real-time repair tracking system with live status updates, repair history, and post-repair feedback. Developed a full admin dashboard for managing repairs, services, and inventory with Cloudinary-powered image uploads, alongside deep-linked WhatsApp booking and checkout flows.
+The hardest part here was getting the real-time updates right without burning through Firestore reads. I leaned heavily on Firestore listeners (`onSnapshot`) and AsyncStorage to cache data and keep the app responsive even on slower connections. I also had to figure out how to lock down the admin side, eventually using email allowlists and strict Firestore security rules so unauthorized users couldn't mess with the inventory or repair histories.
 
 </details>
 
 <details>
-<summary><b>📱 GitHub Developer Dashboard — Offline-First React Native App</b></summary>
+<summary><b>GitHub Developer Dashboard — Offline-First React Native App</b></summary>
 <br/>
 
-A React Native CLI app for browsing GitHub repositories and developers, combining live API data with local SQLite caching for offline-first reliability.
+A React Native CLI app for browsing GitHub repositories and developers. The main goal here was to figure out how to make an app feel reliable even when the user loses their internet connection.
 
 | Aspect | Details |
 |---|---|
@@ -162,40 +150,37 @@ A React Native CLI app for browsing GitHub repositories and developers, combinin
 | **Scale** | Feature-based architecture across repository, developer, home, and settings domains |
 | **Performance** | Tuned FlatList (`getItemLayout`, `removeClippedSubviews`, windowing), pagination, request cancellation via thunk signals |
 | **Security** | Controlled search submission (no per-keystroke calls), exponential backoff retry on transient API failures |
-| **Impact** | Fully usable offline via SQLite cache hydration with explicit offline-mode UI indicators |
 | **Repository** | [AryanKatwal06/GitHubDeveloperDashboard](https://github.com/AryanKatwal06) |
 
-Built an offline-first dashboard using Redux Toolkit slices for repository, developer, settings, and UI state, with a SQLite-backed repository pattern keeping persistence logic out of screens and reducers. Implemented pagination, debounced/submit-only search, retry handling with exponential backoff, and Reanimated-based UI motion for a polished, responsive feel.
+I combined live API data with a local SQLite cache. To keep the UI snappy while handling a lot of data, I spent a lot of time tuning FlatList performance—using things like `getItemLayout` and windowing. I also wired up Redux Toolkit to manage the app state and added exponential backoff for API retries. Getting the offline-mode indicators and local data hydration to work smoothly took some trial and error, but it completely changed how I think about mobile UX.
 
 </details>
 
 <details>
-<summary><b>📦 My Orders UI Clone — Android Native (Kotlin)</b></summary>
+<summary><b>My Orders UI Clone — Android Native (Kotlin)</b></summary>
 <br/>
 
-A pixel-close Android Native recreation of a My Orders interface, built for clean, maintainable XML and Kotlin architecture.
+A focused Android Native project where I tried to recreate a complex 'My Orders' interface as accurately as possible. I built this purely to get better at Kotlin and Android's XML layout system.
 
 | Aspect | Details |
 |---|---|
 | **Stack** | Kotlin, XML, RecyclerView, ConstraintLayout, Gradle |
 | **Scale** | Single-module Android app focused on UI fidelity |
 | **Performance** | RecyclerView-based scalable list rendering, reduced view nesting, optimized drawables |
-| **Security** | N/A (UI-focused showcase project) |
-| **Impact** | Demonstrates pixel-accurate UI recreation skills and clean Android architecture practices |
 | **Repository** | [AryanKatwal06](https://github.com/AryanKatwal06) |
 
-A focused Android Native showcase demonstrating precise UI recreation using XML layouts and Kotlin, with RecyclerView-based order listings, interactive tabs, and responsive layout behavior across screen sizes — built with a minimal, easy-to-read architecture.
+I avoided overcomplicating the architecture and just focused on writing clean, readable UI code. It uses a RecyclerView to render the order lists efficiently without nesting views too deeply. It doesn't have a backend; it's just a sandbox I used to practice responsive layouts, drawables, and native Android view performance.
 
 </details>
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Android Development Team Member · GDGC VIT Bhopal
 **December 2025 – Present**
 
-Collaborating on Android development projects within Google Developer Groups on Campus, contributing to native Android builds while learning Kotlin-based development practices alongside a student developer community.
+I work alongside a great group of student developers in the Google Developer Groups on Campus. We collaborate on native Android builds, mostly working in Kotlin. It's been a really good environment to bounce ideas off peers, review each other's code, and figure out Android architecture patterns together rather than just learning in isolation.
 
 **Scope of Work:**
 - Collaborating on native Android development projects using Kotlin
@@ -209,7 +194,7 @@ Collaborating on Android development projects within Google Developer Groups on 
 ### Core Member, Event Management Domain · E-Cell, VIT Bhopal
 **December 2025 – February 2026**
 
-Contributed to the planning and execution of entrepreneurship-focused events and workshops, supporting operational logistics and cross-team coordination within the E-Cell ecosystem.
+I help plan and run entrepreneurship-focused events and workshops on campus. It's less about code and more about logistics—coordinating between different teams, making sure things run on time, and figuring out how to handle the inevitable curveballs that come with large student events.
 
 **Scope of Work:**
 - Planning and organizing entrepreneurship events and workshops
@@ -220,77 +205,68 @@ Contributed to the planning and execution of entrepreneurship-focused events and
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-| Recognition | Details |
+| Category | Details |
 |---|---|
-| 🎓 **School President (2023–24)** | Led student council operations and organized major school-wide events and initiatives |
-| 📊 **CGPA 8.94/10** | Maintained top-tier academic performance through 3rd year of B.Tech CSE at VIT Bhopal |
-| 🏅 **NPTEL Elite Certification** | Scored 81% in Introduction to Internet of Things, funded by MoE, Govt. of India |
-| 💯 **Perfect Coursera Score** | Achieved 100% in Intro to AR/VR/MR/XR: Technologies, Applications & Issues |
+| **Leadership** | School President (2023–24): Led student council operations and organized major school-wide events and initiatives |
+| **Academic** | Maintained a CGPA of 8.94/10 through my 3rd year of B.Tech CSE at VIT Bhopal |
+| **Certification** | Scored 81% (Elite tier) in the Introduction to Internet of Things course, funded by MoE, Govt. of India (NPTEL) |
+| **Coursework** | Achieved 100% in the 'Intro to AR/VR/MR/XR: Technologies, Applications & Issues' course on Coursera |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
-### NPTEL
-[![NPTEL](https://img.shields.io/badge/NPTEL-Introduction%20to%20IoT%20(Elite)-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-
-### ServiceNow / AICTE
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-Agentic%20AI%20%26%20Workflow%20Automation-6D28D9?style=for-the-badge&logo=servicenow&logoColor=white)](#)
-
-### Coursera
-[![Coursera](https://img.shields.io/badge/Coursera-AR%2FVR%2FMR%2FXR%20Technologies-8B5CF6?style=for-the-badge&logo=coursera&logoColor=white)](#)
+[![NPTEL](https://img.shields.io/badge/NPTEL-Introduction%20to%20IoT%20(Elite)-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](#) &nbsp; [![ServiceNow](https://img.shields.io/badge/ServiceNow-Agentic%20AI%20%26%20Workflow%20Automation-6D28D9?style=for-the-badge&logo=servicenow&logoColor=white)](#) &nbsp; [![Coursera](https://img.shields.io/badge/Coursera-AR%2FVR%2FMR%2FXR%20Technologies-8B5CF6?style=for-the-badge&logo=coursera&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🧩 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](#) &nbsp; [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryanKatwal06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKatwal06&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AryanKatwal06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="48%" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKatwal06&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKatwal06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKatwal06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!--
+## GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=AryanKatwal06&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
 
 </div>
+-->
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -300,7 +276,7 @@ Contributed to the planning and execution of entrepreneurship-focused events and
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -310,7 +286,7 @@ Contributed to the planning and execution of entrepreneurship-focused events and
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 current_focus:
@@ -320,30 +296,27 @@ current_focus:
     - "Agentic AI workflow design"
 
   building:
-    - "PaySys — Full-stack fintech wallet platform"
-    - "TrustID — Offline facial recognition & trust scoring engine"
+    - "PaySys (Fintech wallet platform)"
+    - "TrustID (Facial recognition & trust scoring engine)"
 
   exploring:
     - "Zero-Knowledge Biometric Proofs"
-    - "Continuous passive re-authentication systems"
+    - "Continuous passive re-authentication"
     - "Offline-first mobile architectures"
 
   open_to:
-    - "Software Development Engineering Internships"
+    - "Software Engineering Internships"
     - "Open Source Collaboration"
-    - "Fintech & AI/ML Engineering Projects"
+    - "Fintech & AI/ML Projects"
 ```
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-katwal.aryan11%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katwal.aryan11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryankatwal)
-[![GitHub](https://img.shields.io/badge/GitHub-AryanKatwal06-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanKatwal06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-katwal.aryan11%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katwal.aryan11@gmail.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryankatwal) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-AryanKatwal06-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanKatwal06)
 
 </div>
 
@@ -351,7 +324,7 @@ current_focus:
 
 <div align="center">
 
-### *"Engineering depth over surface-level shipping — build it right, build it once."*
+### *"Understand the system deeply before trying to scale it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=150&section=footer"/>
 
