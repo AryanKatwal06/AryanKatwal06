@@ -7,7 +7,7 @@
 <br/>
 
 [![CGPA](https://img.shields.io/badge/CGPA-8.94%2F10-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![University](https://img.shields.io/badge/VIT%20Bhopal-CSE%20'27-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![University](https://img.shields.io/badge/VIT%20Bhopal-CSE%20'28-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/Location-Noida%2C%20India-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
