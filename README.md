@@ -149,26 +149,6 @@ An offline P2P payment protocol using dual-channel air-gap communication for zer
 
 ---
 
-## Experience
-
-### Android Development Team Member · GDGC VIT Bhopal
-**December 2025 – Present**
-
-Collaborating on native Android development projects using Kotlin.
-
-`Kotlin` `Android` `Git` `Collaborative Development`
-
-<br/>
-
-### Core Member, Event Management Domain · E-Cell, VIT Bhopal
-**December 2025 – February 2026**
-
-Contributing to planning and organizing entrepreneurship events and workshops.
-
-`Event Management` `Operations` `Team Coordination`
-
----
-
 ## Achievements
 
 <div align="center">
