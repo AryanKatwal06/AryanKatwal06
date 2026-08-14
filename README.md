@@ -137,7 +137,7 @@ An offline P2P payment protocol using dual-channel air-gap communication for zer
 
 <div align="center">
 
-![Oracle Java SE 21](https://img.shields.io/badge/Oracle%20Certified-Java%20SE%2021%20Developer-7C3AED?style=for-the-badge&logo=oracle&logoColor=white) &nbsp; ![OCI GenAI](https://img.shields.io/badge/OCI%202025-Generative%20AI%20Professional-6D28D9?style=for-the-badge&logo=oracle&logoColor=white) &nbsp; ![NPTEL IoT](https://img.shields.io/badge/NPTEL-IoT%20(Elite%2C%2081%25)-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
+[![Oracle Java SE 21](https://img.shields.io/badge/Oracle%20Certified-Java%20SE%2021%20Developer-7C3AED?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB3C46A12D13310CBEB5FFD459645EF7F76B887D82D3DA0968F5AB9F43AE24CE) &nbsp; [![OCI GenAI](https://img.shields.io/badge/OCI%202025-Generative%20AI%20Professional-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9D4A3C83A4BE8731A64C1F445756CBAE7E74CFFC5F5FB2378D244CE5F4AB37DE) &nbsp; [![NPTEL IoT](https://img.shields.io/badge/NPTEL-IoT%20(Elite%2C%2081%25)-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS147S105320077510388141)
 
 </div>
 
