@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=280&section=header&text=Aryan%20Katwal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Application%20Developer&descAlignY=55&descAlign=50&v=3)
+![Header](.github/assets/header.png)
 
 <br/>
 
@@ -160,6 +160,6 @@ An offline P2P payment protocol using dual-channel air-gap communication for zer
 
 ### *"Understand the system deeply before trying to scale it."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=150&section=footer&v=3)
+---
 
 </div>
