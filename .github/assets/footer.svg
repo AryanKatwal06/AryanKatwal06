@@ -1,0 +1,51 @@
+<svg
+  width="854"
+  height="150"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="z-index:1;position:relative"
+  viewBox="0 0 854 150"
+>
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4C1D95"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0D1A"/>
+      <stop offset="100%" stop-color="#1A0A2E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="854" height="150" fill="url(#bg)"/>
+
+  <!-- Animated footer wave (flipped) -->
+  <g transform="translate(427, 75) scale(1, -1) translate(-427, -75)">
+    <path d="" fill="url(#linear)" opacity="0.5">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="0s"
+        values="M0 0L 0 80Q 213.5 120 427 90T 854 115L 854 0 Z;M0 0L 0 105Q 213.5 120 427 100T 854 90L 854 0 Z;M0 0L 0 125Q 213.5 95 427 125T 854 90L 854 0 Z;M0 0L 0 80Q 213.5 120 427 90T 854 115L 854 0 Z"
+      />
+    </path>
+    <path d="" fill="url(#linear)" opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-10s"
+        values="M0 0L 0 95Q 213.5 130 427 110T 854 120L 854 0 Z;M0 0L 0 110Q 213.5 80 427 80T 854 100L 854 0 Z;M0 0L 0 105Q 213.5 85 427 110T 854 125L 854 0 Z;M0 0L 0 95Q 213.5 130 427 110T 854 120L 854 0 Z"
+      />
+    </path>
+  </g>
+</svg>

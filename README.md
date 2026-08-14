@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](.github/assets/header.png)
+![Header](.github/assets/header.svg)
 
 <br/>
 
@@ -160,6 +160,6 @@ An offline P2P payment protocol using dual-channel air-gap communication for zer
 
 ### *"Understand the system deeply before trying to scale it."*
 
----
+![Footer](.github/assets/footer.svg)
 
 </div>
