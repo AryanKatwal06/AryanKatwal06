@@ -42,35 +42,35 @@ currently_open_to:
 
 <br/>
 
-![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend & Mobile
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
 
 <br/>
 
-![React Native](https://img.shields.io/badge/React%20Native-7C3AED?style=flat-square&logo=react&logoColor=white) &nbsp; ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-6D28D9?style=flat-square&logo=framer&logoColor=white)
+![React Native](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=react&logoColor=white) &nbsp; ![Framer Motion](https://img.shields.io/badge/-6D28D9?style=for-the-badge&logo=framer&logoColor=white)
 
 ### Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" />
 
 <br/>
 
-![Quarkus](https://img.shields.io/badge/Quarkus-7C3AED?style=flat-square&logo=quarkus&logoColor=white) &nbsp; ![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=flat-square&logo=firebase&logoColor=white) &nbsp; ![JWT](https://img.shields.io/badge/JWT%20Auth-8B5CF6?style=flat-square&logo=jsonwebtokens&logoColor=white) &nbsp; ![REST APIs](https://img.shields.io/badge/REST%20APIs-5B21B6?style=flat-square&logo=fastapi&logoColor=white)
+![Quarkus](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=quarkus&logoColor=white) &nbsp; ![Firebase](https://img.shields.io/badge/-6D28D9?style=for-the-badge&logo=firebase&logoColor=white) &nbsp; ![JWT](https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=jsonwebtokens&logoColor=white) &nbsp; ![REST APIs](https://img.shields.io/badge/-5B21B6?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma&theme=dark" />
 
 <br/>
 
-![Firestore](https://img.shields.io/badge/Firestore-7C3AED?style=flat-square&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,maven&theme=dark" />
 
 <br/>
 
-![GraalVM Native](https://img.shields.io/badge/GraalVM%20Native-7C3AED?style=flat-square&logo=oracle&logoColor=white) &nbsp; ![Sigstore](https://img.shields.io/badge/Sigstore%2Fcosign-6D28D9?style=flat-square&logo=sigstore&logoColor=white) &nbsp; ![CycloneDX SBOM](https://img.shields.io/badge/CycloneDX%20SBOM-8B5CF6?style=flat-square&logo=owasp&logoColor=white) &nbsp; ![Render](https://img.shields.io/badge/Render-5B21B6?style=flat-square&logo=render&logoColor=white)
+![GraalVM Native](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=oracle&logoColor=white) &nbsp; ![Sigstore](https://img.shields.io/badge/-6D28D9?style=for-the-badge&logo=sigstore&logoColor=white) &nbsp; ![CycloneDX SBOM](https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=owasp&logoColor=white) &nbsp; ![Render](https://img.shields.io/badge/-5B21B6?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
