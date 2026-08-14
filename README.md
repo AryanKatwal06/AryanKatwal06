@@ -1,16 +1,10 @@
 <div align="center">
 
-![Aryan Katwal Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=280&section=header&text=Aryan%20Katwal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Application%20Developer&descAlignY=55&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=4,12,20&amp;height=280&amp;section=header&amp;text=Aryan%20Katwal&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20%26%20Mobile%20Application%20Developer&amp;descAlignY=55&amp;descAlign=50&amp;v=2" alt="Header" width="100%"/>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(3rd+Year)+%40+VIT+Bhopal+-+CGPA+8.94%2F10;Java+%7C+TypeScript+%7C+React+Native+%7C+GraalVM;Building+CLI+Tools+%26+Full-Stack+Mobile+Apps;Open+to+SDE+Internship+Opportunities)
-
-<br/>
-
-![CGPA](https://img.shields.io/badge/CGPA-8.94%2F10-7C3AED?style=for-the-badge&logo=vercel&logoColor=white) &nbsp; ![University](https://img.shields.io/badge/VIT%20Bhopal-CSE%20'28-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white) &nbsp; ![Location](https://img.shields.io/badge/Location-Noida%2C%20UP-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=B.Tech+CSE+%283rd+Year%29+%40+VIT+Bhopal+-+CGPA+8.94%2F10;Java+%7C+TypeScript+%7C+React+Native+%7C+GraalVM;Building+CLI+Tools+%26+Full-Stack+Mobile+Apps;Open+to+SDE+Internship+Opportunities&amp;v=2" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-katwal-b1b9b6307) &nbsp; [![Gmail](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katwal.aryan11@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanKatwal06)
 
@@ -186,6 +180,6 @@ An offline P2P payment protocol using dual-channel air-gap communication for zer
 
 ### *"Understand the system deeply before trying to scale it."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=150&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=4,12,20&amp;height=150&amp;section=footer&amp;v=2" alt="Footer" width="100%"/>
 
 </div>
