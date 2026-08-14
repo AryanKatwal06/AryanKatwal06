@@ -41,16 +41,16 @@ currently_open_to:
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,bash&theme=dark" />
 
 ### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,framer&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
 
 ### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,quarkus,firebase,jwt,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase,fastapi&theme=dark" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma,firebase&theme=dark" />
 
 ### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,maven,oracle,sigstore,owasp,render&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,maven&theme=dark" />
 
 </div>
 
