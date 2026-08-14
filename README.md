@@ -40,37 +40,17 @@ currently_open_to:
 ### Languages
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,bash&theme=dark" />
 
-<br/>
-
-![SQL](https://img.shields.io/badge/-242938?style=flat&logo=postgresql)
-
 ### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
-
-<br/>
-
-![React Native](https://img.shields.io/badge/-242938?style=flat&logo=react) &nbsp; ![Framer Motion](https://img.shields.io/badge/-242938?style=flat&logo=framer)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,framer&theme=dark" />
 
 ### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" />
-
-<br/>
-
-![Quarkus](https://img.shields.io/badge/-242938?style=flat&logo=quarkus) &nbsp; ![Firebase](https://img.shields.io/badge/-242938?style=flat&logo=firebase) &nbsp; ![JWT](https://img.shields.io/badge/-242938?style=flat&logo=jsonwebtokens) &nbsp; ![REST APIs](https://img.shields.io/badge/-242938?style=flat&logo=fastapi)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,quarkus,firebase,jwt,fastapi&theme=dark" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma&theme=dark" />
-
-<br/>
-
-![Firestore](https://img.shields.io/badge/-242938?style=flat&logo=firebase)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma,firebase&theme=dark" />
 
 ### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,maven&theme=dark" />
-
-<br/>
-
-![GraalVM Native](https://img.shields.io/badge/-242938?style=flat&logo=oracle) &nbsp; ![Sigstore](https://img.shields.io/badge/-242938?style=flat&logo=sigstore) &nbsp; ![CycloneDX SBOM](https://img.shields.io/badge/-242938?style=flat&logo=owasp) &nbsp; ![Render](https://img.shields.io/badge/-242938?style=flat&logo=render)
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,maven,oracle,sigstore,owasp,render&theme=dark" />
 
 </div>
 
