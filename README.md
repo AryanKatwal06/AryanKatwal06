@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=280&section=header&text=Aryan%20Katwal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Application%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+![Aryan Katwal Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=280&section=header&text=Aryan%20Katwal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Application%20Developer&descAlignY=55&descAlign=50)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(3rd+Year)+%40+VIT+Bhopal+—+CGPA+8.94%2F10;Java+%7C+TypeScript+%7C+React+Native+%7C+GraalVM;Building+CLI+Tools+%26+Full-Stack+Mobile+Apps;Open+to+SDE+Internship+Opportunities" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(3rd+Year)+%40+VIT+Bhopal+-+CGPA+8.94%2F10;Java+%7C+TypeScript+%7C+React+Native+%7C+GraalVM;Building+CLI+Tools+%26+Full-Stack+Mobile+Apps;Open+to+SDE+Internship+Opportunities)
 
 <br/>
 
@@ -186,6 +186,6 @@ An offline P2P payment protocol using dual-channel air-gap communication for zer
 
 ### *"Understand the system deeply before trying to scale it."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=150&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,20&height=150&section=footer)
 
 </div>
