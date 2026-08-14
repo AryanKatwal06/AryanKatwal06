@@ -42,35 +42,35 @@ currently_open_to:
 
 <br/>
 
-![SQL](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-242938?style=flat&logo=postgresql)
 
 ### Frontend & Mobile
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
 
 <br/>
 
-![React Native](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=react&logoColor=white) &nbsp; ![Framer Motion](https://img.shields.io/badge/-6D28D9?style=for-the-badge&logo=framer&logoColor=white)
+![React Native](https://img.shields.io/badge/-242938?style=flat&logo=react) &nbsp; ![Framer Motion](https://img.shields.io/badge/-242938?style=flat&logo=framer)
 
 ### Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" />
 
 <br/>
 
-![Quarkus](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=quarkus&logoColor=white) &nbsp; ![Firebase](https://img.shields.io/badge/-6D28D9?style=for-the-badge&logo=firebase&logoColor=white) &nbsp; ![JWT](https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=jsonwebtokens&logoColor=white) &nbsp; ![REST APIs](https://img.shields.io/badge/-5B21B6?style=for-the-badge&logo=fastapi&logoColor=white)
+![Quarkus](https://img.shields.io/badge/-242938?style=flat&logo=quarkus) &nbsp; ![Firebase](https://img.shields.io/badge/-242938?style=flat&logo=firebase) &nbsp; ![JWT](https://img.shields.io/badge/-242938?style=flat&logo=jsonwebtokens) &nbsp; ![REST APIs](https://img.shields.io/badge/-242938?style=flat&logo=fastapi)
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma&theme=dark" />
 
 <br/>
 
-![Firestore](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/-242938?style=flat&logo=firebase)
 
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,maven&theme=dark" />
 
 <br/>
 
-![GraalVM Native](https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=oracle&logoColor=white) &nbsp; ![Sigstore](https://img.shields.io/badge/-6D28D9?style=for-the-badge&logo=sigstore&logoColor=white) &nbsp; ![CycloneDX SBOM](https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=owasp&logoColor=white) &nbsp; ![Render](https://img.shields.io/badge/-5B21B6?style=for-the-badge&logo=render&logoColor=white)
+![GraalVM Native](https://img.shields.io/badge/-242938?style=flat&logo=oracle) &nbsp; ![Sigstore](https://img.shields.io/badge/-242938?style=flat&logo=sigstore) &nbsp; ![CycloneDX SBOM](https://img.shields.io/badge/-242938?style=flat&logo=owasp) &nbsp; ![Render](https://img.shields.io/badge/-242938?style=flat&logo=render)
 
 </div>
 
